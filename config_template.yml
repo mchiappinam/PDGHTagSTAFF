@@ -1,0 +1,16 @@
+﻿###Copyright PDGH Minecraft Servers & HostLoad © 2013-XXXX
+###Todos os direitos reservados
+###Uso apenas para a PDGH.com.br e https://HostLoad.com.br
+###Caso você tenha acesso a esse sistema, você é privilegiado!
+#OBS: As permissões são por exemplo: coloredtags.youtuber
+#Legendchat config - {staff}
+tags:
+  presidente: "§3➥Ⓟⓡⓔⓢⓘⓓⓔⓝⓣⓔ"
+  vicepresidente: "§b➥Ⓥⓘⓒⓔ-Ⓟⓡⓔⓢⓘⓓⓔⓝⓣⓔ"
+  diretor: "§3➥Ⓓⓘⓡⓔⓣⓞⓡ"
+  subdiretor: "§b➥Ⓢⓤⓑ-Ⓓⓘⓡⓔⓣⓞ"
+  admin: "§4➥Ⓐⓓⓜⓘⓝ"
+  moderador: "§2➥Ⓜⓞⓓⓔⓡⓐⓓⓞⓡ"
+  coordenador: "§aⒸⓞⓞⓡⓓⓔⓝⓐⓓⓞⓡ"
+  construtor: "§aⒸⓞⓝⓢⓣⓡⓤⓣⓞⓡ"
+  youtuber: "§0§lYou§c§lTuber"
